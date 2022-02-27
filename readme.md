@@ -1,1 +1,1 @@
-#This project prints out all even numbers from 1-1000
+#This python function prints out all even numbers from 1-1000
