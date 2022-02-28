@@ -4,6 +4,6 @@ def evenNum():
         if(i%2==0):
             even_list += [i]
     return even_list
-evenNum()
+print(evenNum())
 
 
